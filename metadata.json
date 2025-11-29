@@ -1,0 +1,7 @@
+{
+  "name": "AI Hand Snake",
+  "description": "A classic Snake game controlled by your hand using MediaPipe AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
